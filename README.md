@@ -8,7 +8,7 @@
 
 ### Tables
 
-In this project used four DB tables:  and .
+In this project used four DB tables:
 * *fix_user* - storing users' information
 * *fix_product* - storing products' information
 * *fix_cart_product* - storing carts' information
